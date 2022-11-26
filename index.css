@@ -1,0 +1,12 @@
+.back{
+    margin: 0 auto;
+    width: 600px;
+    height: 1060px;
+    background: url(../web2/img/Background.png);
+    mask-repeat: no-repeat;
+}
+.index{
+    width: 442px;
+    height: 720px;
+    margin: 0 auto;
+}
